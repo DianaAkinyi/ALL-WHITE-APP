@@ -1,0 +1,45 @@
+.white{
+background-color: aqua;
+height: 780px;
+width: 100%;
+color:red;
+border-radius:35px;
+padding-top: 60px;
+padding-left: 22px;
+
+}
+
+.local{
+float: right;
+}
+.padd{
+    display: flex;
+    padding-bottom: 30px;
+    background-color: aqua;
+    border-radius: 53px;
+
+    
+}
+.block{
+    text-align: center;
+    color :red;
+    padding-top: 65px;
+    
+
+}
+.local a{
+    float: left;
+    padding-top: 47px;
+    color: red;
+    border:solid pink;
+    padding-right: 47px;
+    border-radius: 25px;
+    padding: 12px 13px;
+    background-color: beige;
+}
+.pad{
+    float:right;
+    margin-left:43% ;
+}
+
+
